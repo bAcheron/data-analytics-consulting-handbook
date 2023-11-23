@@ -23,18 +23,29 @@
 
 ### Sales
 - [Sales Insights Lab](https://www.youtube.com/@SalesInsightsLab/videos)
-- [Patrick Dang] (https://www.youtube.com/@patrickdang/videos)
+- [Patrick Dang](https://www.youtube.com/@patrickdang/videos)
 
-### Marketing
-- []()
 
 ## Starting Your Consulting Company
 
+- []()
+- [Pick Your Niche]() #TODO Write Article
+- [Legal Setup]()
+- [Get Insurance]()
+- [Website and Online Presence]()
+- [Client Acquisition - Networking]() #TODO Write this article
+- [Client Acquisition - Marketing](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
+- [Client Acquisition - Sales](https://dcubed.substack.com/p/how-to-sell-your-data-consulting)
+- [Client Acquisition - Vendor Partnerships](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080213-vendor-partnerships)
+- [Client Acquisition - Referrals]()
+- [Develop a Sales Pitch]()
+- [Pricing Strategy](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080208-how-do-you-decide-your-pricing-strategy)
+- [Consulting Vs Contracting](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743513-consulting-vs-contracting)
+- [How To Kill Your Profits As A Consultant](https://dcubed.substack.com/p/how-to-kill-your-profits-as-a-data)
 
-- [Pick Your Niche](wwww)
-- [Find Clients - Marketing](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
-- [Pricing]()
-
+### Marketing Deeper Dive
+- [Linkedin]()
+- [Blog]()
 
 ## Project Examples
 - [Consulting Project Example - Embedded Analytics Discovery Project](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/49706934-consulting-project-example-embedded-analytics-discovery-project)
