@@ -25,6 +25,8 @@
 - [Sales Insights Lab](https://www.youtube.com/@SalesInsightsLab/videos)
 - [Patrick Dang](https://www.youtube.com/@patrickdang/videos)
 
+### Communication
+- [Firm Learning](https://www.youtube.com/@FirmLearning/videos)
 
 ## Starting Your Consulting Company
 
@@ -42,10 +44,14 @@
 - [Pricing Strategy](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/43080208-how-do-you-decide-your-pricing-strategy)
 - [Consulting Vs Contracting](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743513-consulting-vs-contracting)
 - [How To Kill Your Profits As A Consultant](https://dcubed.substack.com/p/how-to-kill-your-profits-as-a-data)
+- [Are You Ready To Start Consulting?](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/42937320-intro-how-i-started-consulting)
 
 ### Marketing Deeper Dive
-- [Linkedin]()
-- [Blog]()
+- [Content That's Landed Me Clients Example - Why Data Engineers LOVE/HATE Airflow ](https://www.youtube.com/watch?v=h5X3124R61U)
+- [4 Alternatives to Fivetran: The Evolving Dynamics of the ETL & ELT Tool Market](https://www.theseattledataguy.com/4-alternatives-to-fivetran-the-evolving-dynamics-of-the-etl-elt-tool-market/#page-content)
+- [Do You REALLY Need A Data Warehouse - What Are The Benefits Of A Data Warehouse?](https://www.youtube.com/watch?v=0DsaafI1fTQ)
+- [Linkedin - How To](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/48562365-marketing-walking-through-linkedin-posts)
+- [Blog - Template]() #TODO
 
 ## Project Examples
 - [Consulting Project Example - Embedded Analytics Discovery Project](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/49706934-consulting-project-example-embedded-analytics-discovery-project)
