@@ -1,14 +1,14 @@
 # The Data Analytics Consulting Handbook
 
+# Resources
 
 ## Starting Your Consulting Company
 
 
 - [Pick Your Niche](wwww)
 - [Find Clients - Marketing](https://dcubed.substack.com/p/how-to-get-clients-as-a-consultant)
-- []()
-
-
+- [Pricing]()
+- 
 
 
 ## Consulting Templates
