@@ -1,12 +1,13 @@
 # The Data Analytics Consulting Handbook
 
 # Table Of Contents
-- [Consulting Templates]()
-- [Youtube Channels]()
-- [Starting Your Consulting Company Path]()
-- [Books]()
-- [Podcasts]()
-  
+- [Consulting Templates](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#consulting-templates)
+- [Youtube Channels](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#youtube-channels)
+- [Starting Your Consulting Company Path](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#starting-your-consulting-company-path)
+- [Books](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#books)
+- [Podcasts](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#podcasts)
+- [Newsletters](https://github.com/bAcheron/data-analytics-consulting-handbook/blob/main/README.md#newsletters)
+
 # Resources
 
 ## Consulting Templates
@@ -32,7 +33,7 @@
 ## Starting Your Consulting Company Path
 
 - Make the jump!
-- [Pick Your Niche](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743530-finding-a-niche) #TODO Write Article
+- [Pick Your Niche](https://courses.technicalfreelanceracademy.com/courses/take/starting-6-7-figure-consulting/lessons/44743530-finding-a-niche) 
 - [Legal Setup]()
 - [Get Insurance]()
 - [Website and Online Presence]()
